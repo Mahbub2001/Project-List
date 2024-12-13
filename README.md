@@ -13,7 +13,7 @@ Welcome to my project repository! Below is a list of some of the key projects I 
 ---
 
 ### 2. [Physics ChatBot](https://github.com/Mahbub2001/Physics-Chatbot)
-- **Description**: A chatbot designed to answer physics-related queries using Retrieval Augmented Generation (RAG) and a combination of small and large language models.  
+- **Description**: A chatbot designed to answer class (9-10 book) physics-related queries using Retrieval Augmented Generation (RAG) and a combination of small and large language models.  
 - **Tech Stack**: Python,streamlit, langchain, chromadb ,llama3.1
 
 ---
