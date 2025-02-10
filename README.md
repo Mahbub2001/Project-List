@@ -6,7 +6,7 @@ Welcome to my project repository! Below is a list of some of the key projects I 
 
 ## 🚀 Projects
 
-### 1. [CodeBuddy - https://github.com/Mahbub2001/CodeBuddy)
+### 1.  [CodeBuddy - Programming Assistant](https://github.com/Mahbub2001/CodeBuddy) 
 - **Description**: CodeBuddy is an AI-powered code assistant with an integrated IDE, leveraging LLMs and Retrieval-Augmented Generation (RAG) to provide real-time code assistance, including correction, completion, optimization, and LeetCode problem-solving. It supports C and C++ (with plans for Java, Python, and more) and features an interactive editor, semantic search, and customizable AI assistants. Future updates will include web scraping and fine-tuned LLM models. 🚀 
 - **Tech Stack**: Python,LLM,RAG,Ollama,Sqlite,sentence_transformers,numpy,pymupdf,PyQt6
 
